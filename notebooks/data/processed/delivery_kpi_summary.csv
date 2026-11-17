@@ -1,0 +1,11 @@
+KPI,Value
+Total Orders,99441
+Cancelled Orders,625
+Cancellation Rate (%),0.63
+Eligible Delivered Orders,96470
+On-Time Orders,88644
+On-Time Delivery Rate (%),91.89
+Average Delivery Duration (Days),12.56
+Average Signed Delay (Days),-11.18
+Average Delay Among Late Orders (Days),9.55
+Average Purchase-to-Carrier Time (Days),3.23
